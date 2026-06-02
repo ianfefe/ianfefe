@@ -14,7 +14,7 @@ Aqui no GitHub compartilho projetos, estudos e experiências que fazem
 parte da minha evolução na área de TI.
 
 ## 🎓Formação
-- 🎓 Graduando em Sistemas de Informação  
+- 🎓 Graduando em Sistemas de Informação  - Universidade Federal de Juiz de Fora
 
 ## 📈 Objetivo
 Busco minha primeira oportunidade como desenvolvedor (estágio ou júnior), onde eu possa aplicar meus conhecimentos, 
