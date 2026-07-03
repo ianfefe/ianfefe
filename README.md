@@ -4,7 +4,7 @@
 
 🚀 Desenvolvedor Full Stack em formação
 
-📍 Juiz de Fora - JF  
+📍 Juiz de Fora, MG - Brasil
 
 
 ## 🧠 Sobre mim
