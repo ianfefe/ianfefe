@@ -104,19 +104,3 @@ evoluir tecnicamente e contribuir com a equipe.
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    width="48%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ianfefe&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
-  />
-
-  <img 
-    align="left" 
-    height="200"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ianfefe&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
-  />
-</p>
