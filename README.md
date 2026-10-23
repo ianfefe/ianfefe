@@ -21,8 +21,7 @@ Busco minha primeira oportunidade como desenvolvedor (estágio ou júnior), onde
 evoluir tecnicamente e contribuir com a equipe.
 
 
-## 📫 Contato
-- 📧 E-mail: ianfelixfernandes@gmail.com  
+## 📫 Contato 
 - 💼 LinkedIn: https://www.linkedin.com/in/ian-fe-fe/
 
 
